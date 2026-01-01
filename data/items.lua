@@ -183,4 +183,18 @@ return {
 		}
 	},
 
+	['concrete'] = {
+		label = 'Concrete',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used for building. Good for stable foundations.',
+		stack = true,
+		stackSize = 500,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'concrete.png'
+		}
+	},
+
 }
