@@ -141,4 +141,19 @@ return {
 		}
 	},
 
+	['cable'] = {
+		label = 'Cable',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used for crafting. Primarily used to build power lines.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'biomass.png'
+		}
+	},
+
+
 }
