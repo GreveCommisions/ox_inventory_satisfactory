@@ -1,7 +1,11 @@
+# Satisfactory - ox_inventory
+![alt text](image.png)
+
 # Commit Message Templates:
 
 - feat(items): Item Label.
 - refactor(items): Info about whats been refactored.
+- refactor(readme): Updated Readme file.
 
 # Item List:
 - Mercer Sphere
