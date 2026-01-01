@@ -267,4 +267,18 @@ return {
 		}
 	},
 
+	['heavy_modular_frame'] = {
+		label = 'Heavy Modular Frame',
+		category = 'building_materials',
+		rarity = '',
+		description = 'A more robust multi-purpose frame.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'heavy_modular_frame.png'
+		}
+	},
+
 }
