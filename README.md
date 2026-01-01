@@ -17,3 +17,5 @@
 - Circuit Board
 - Computer
 - Concrete
+- Cooling System
+- Copper Sheet

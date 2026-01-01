@@ -211,4 +211,18 @@ return {
 		}
 	},
 
+	['copper_sheet'] = {
+		label = 'Copper Sheet',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used for crafting. Primarily used for pipelines due to its high corrosion resistance.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'copper_sheet.png'
+		}
+	},
+
 }
