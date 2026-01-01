@@ -1,4 +1,4 @@
 # Commit Message Templates:
 
-feat(items): 
-refactor(items): Fixed
+- feat(items): 
+- refactor(items): Fixed
