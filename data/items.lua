@@ -281,4 +281,18 @@ return {
 		}
 	},
 
+	['high_speed_connector'] = {
+		label = 'High-Speed Connector',
+		category = 'building_materials',
+		rarity = '',
+		description = 'The high-speed connector connects several cables and wires in a very efficient way. Uses a standard pattern so its applications are many and varied.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'high_speed_connector.png'
+		}
+	},
+
 }
