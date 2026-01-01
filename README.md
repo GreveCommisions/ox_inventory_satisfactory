@@ -27,3 +27,5 @@
 - Fused Modular Frame
 - Heavy Modular Frame
 - High-Speed Connector
+- Iron Plate
+- Iron Rod

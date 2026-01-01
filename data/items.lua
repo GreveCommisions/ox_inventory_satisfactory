@@ -295,4 +295,32 @@ return {
 		}
 	},
 
+	['iron_plate'] = {
+		label = 'Iron Plate',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used for crafting. One of the most basic parts.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'iron_plate.png'
+		}
+	},
+
+	['iron_rod'] = {
+		label = 'Iron Rod',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used for crafting. One of the most basic parts.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'iron_rod.png'
+		}
+	},
+
 }
