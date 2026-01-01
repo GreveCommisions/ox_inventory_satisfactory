@@ -22,3 +22,4 @@
 - Crystal Oscillator
 - Electromagnetic Control Rod
 - Encased Industrial Beam
+- Fused Modular Frame

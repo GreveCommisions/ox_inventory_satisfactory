@@ -253,17 +253,17 @@ return {
 		}
 	},
 
-	['encased_industrial_beam'] = {
-		label = 'Encased Industrial Beam',
+	['fused_modular_frame'] = {
+		label = 'Fused Modular Frame',
 		category = 'building_materials',
 		rarity = '',
-		description = 'Encased Industrial Beams utilize the compressive strength of concrete and tensile strength of steel simultaneously. Mostly used as a stable basis for constructing buildings.',
+		description = 'A corrosion resistant, nitride hardened, highly robust, yet lightweight modular frame.',
 		stack = true,
-		stackSize = 100,
+		stackSize = 50,
 		close = true,
 		weight = 100,
 		client = {
-			image = 'encased_industrial_beam.png'
+			image = 'fused_modular_frame.png'
 		}
 	},
 
