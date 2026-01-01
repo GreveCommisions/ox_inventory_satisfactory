@@ -227,13 +227,27 @@ return {
 		label = 'Mercer Sphere',
 		category = 'artifacts',
 		rarity = '',
-		description = 'Mercer Spheres are alien artifacts found throughout the world.',
+		description = 'A Weird alien thing with an impossibly smooth surface.',
 		stack = true,
 		stackSize = 50,
 		close = true,
 		weight = 10,
 		client = {
-			image = 'card_bank.png'
+			image = 'mercer_sphere.png'
+		}
+	},
+
+	['somersloop'] = {
+		label = 'Somersloop',
+		category = 'artifacts',
+		rarity = '',
+		description = 'A strange alien thing with a mind-bending yet somehow familiar shape.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 10,
+		client = {
+			image = 'somersloop.png'
 		}
 	},
 
