@@ -169,5 +169,18 @@ return {
 		}
 	},
 
+	['computer'] = {
+		label = 'Computer',
+		category = 'building_materials',
+		rarity = '',
+		description = 'A Computer is a complex logic machine that is used to control advanced behaviour in machines.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'computer.png'
+		}
+	},
 
 }
