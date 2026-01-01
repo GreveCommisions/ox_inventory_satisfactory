@@ -222,4 +222,19 @@ return {
 		label = 'Scrap Metal',
 		weight = 80,
 	},
+
+	['mercer_sphere'] = {
+		label = 'Mercer Sphere',
+		category = 'artifacts',
+		rarity = '',
+		description = 'Mercer Spheres are alien artifacts found throughout the world.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 10,
+		client = {
+			image = 'card_bank.png'
+		}
+	},
+
 }
