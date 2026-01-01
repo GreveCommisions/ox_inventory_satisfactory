@@ -127,4 +127,18 @@ return {
 		}
 	},
 
+	['biomass'] = {
+		label = 'Biomass',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Primarily used as fuel. Biomass Burners and vehicles can use it for power. Biomass is much more energy efficient than raw biological matter.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'biomass.png'
+		}
+	},
+
 }
