@@ -239,4 +239,18 @@ return {
 		}
 	},
 
+	['electromagnetic_control_rod'] = {
+		label = 'Electromagnetic Control Rod',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Control Rods regulate power output via electromagnetism.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'electromagnetic_control_rod.png'
+		}
+	},
+
 }
