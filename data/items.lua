@@ -225,4 +225,18 @@ return {
 		}
 	},
 
+	['crystal_oscillator'] = {
+		label = 'Crystal Oscillator',
+		category = 'building_materials',
+		rarity = '',
+		description = 'A crystal oscillator is an electronic oscillator circuit that uses the mechanical resonance of a vibrating crystal to create an electrical signal with a precise frequency.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'crystal_oscillator.png'
+		}
+	},
+
 }

@@ -19,3 +19,4 @@
 - Concrete
 - Cooling System
 - Copper Sheet
+- Crystal Oscillator
