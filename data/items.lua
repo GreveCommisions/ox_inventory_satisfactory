@@ -53,6 +53,21 @@ return {
 		consume = 0.3
 	},
 
+	-- Template Item
+	['template_item'] = {
+		label = 'Template Item',
+		category = 'artifacts',
+		rarity = '',
+		description = 'An template for item data.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'template_item.png'
+		}
+	},
+
 	-- Artifacts
 	['mercer_sphere'] = {
 		label = 'Mercer Sphere',
@@ -62,7 +77,7 @@ return {
 		stack = true,
 		stackSize = 50,
 		close = true,
-		weight = 10,
+		weight = 100,
 		client = {
 			image = 'mercer_sphere.png'
 		}
@@ -76,9 +91,25 @@ return {
 		stack = true,
 		stackSize = 50,
 		close = true,
-		weight = 10,
+		weight = 100,
 		client = {
 			image = 'somersloop.png'
+		}
+	},
+
+	-- Building materials
+
+	['alclad_aluminum_sheet'] = {
+		label = 'Alclad Aluminum Sheet',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Thin, lightweight, and highly durable sheets that are mainly used for products that require high heat conduction or a high specific strength.',
+		stack = true,
+		stackSize = 50,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'alclad_aluminum_sheet.png'
 		}
 	},
 
