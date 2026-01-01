@@ -105,11 +105,25 @@ return {
 		rarity = '',
 		description = 'Thin, lightweight, and highly durable sheets that are mainly used for products that require high heat conduction or a high specific strength.',
 		stack = true,
-		stackSize = 50,
+		stackSize = 200,
 		close = true,
 		weight = 100,
 		client = {
 			image = 'alclad_aluminum_sheet.png'
+		}
+	},
+
+	['aluminum_casing'] = {
+		label = 'Aluminum Casing',
+		category = 'building_materials',
+		rarity = '',
+		description = 'A versatile container cast from Aluminum Ingots.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'aluminum_casing.png'
 		}
 	},
 
