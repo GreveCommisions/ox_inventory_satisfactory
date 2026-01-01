@@ -155,5 +155,19 @@ return {
 		}
 	},
 
+	['circuit_board'] = {
+		label = 'Circuit Board',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Circuit Boards are advanced electronics that are used in a plethora of different ways.',
+		stack = true,
+		stackSize = 200,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'circuit_board.png'
+		}
+	},
+
 
 }
