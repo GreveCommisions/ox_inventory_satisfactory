@@ -253,4 +253,18 @@ return {
 		}
 	},
 
+	['encased_industrial_beam'] = {
+		label = 'Encased Industrial Beam',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Encased Industrial Beams utilize the compressive strength of concrete and tensile strength of steel simultaneously. Mostly used as a stable basis for constructing buildings.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'encased_industrial_beam.png'
+		}
+	},
+
 }

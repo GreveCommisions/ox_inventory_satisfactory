@@ -20,3 +20,5 @@
 - Cooling System
 - Copper Sheet
 - Crystal Oscillator
+- Electromagnetic Control Rod
+- Encased Industrial Beam
