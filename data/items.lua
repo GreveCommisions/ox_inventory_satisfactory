@@ -197,4 +197,18 @@ return {
 		}
 	},
 
+	['cooling_system'] = {
+		label = 'Cooling System',
+		category = 'building_materials',
+		rarity = '',
+		description = 'Used to keep temperatures of advanced parts and buildings from exceeding to inefficient levels.',
+		stack = true,
+		stackSize = 100,
+		close = true,
+		weight = 100,
+		client = {
+			image = 'cooling_system.png'
+		}
+	},
+
 }
