@@ -151,7 +151,7 @@ return {
 		close = true,
 		weight = 100,
 		client = {
-			image = 'biomass.png'
+			image = 'cable.png'
 		}
 	},
 
